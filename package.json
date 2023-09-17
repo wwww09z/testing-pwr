@@ -1,8 +1,9 @@
 {
-  "name": "testing",
+  "name": "allen-react-testing-pwr",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
